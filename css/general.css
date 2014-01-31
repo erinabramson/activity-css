@@ -1,0 +1,32 @@
+html{
+    font-family: Georgia, serif;
+}
+
+body {
+    background-color: #FCF
+}
+
+h1 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 2.5rem; 
+    text-shadow: #C0F 2px 2px;
+}
+
+p, li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+h1 + p {
+    text-transform:lowercase;
+    font-variant:small-caps;
+}
+
+strong {
+    color: #C0F;
+    font-weight: normal;
+}
+
+hr {
+    border: dotted 4px #C0F
+}
